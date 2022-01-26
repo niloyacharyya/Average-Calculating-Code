@@ -1,2 +1,2 @@
-#Average Calculating Program
+# Average Calculating Program
 Average of 3 numbers 
